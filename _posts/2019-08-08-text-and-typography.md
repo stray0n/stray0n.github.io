@@ -120,6 +120,17 @@ def sum_eq_n?(arr, n)
   arr.product(arr).reject { |a,b| a == b }.any? { |a,b| a + b == n }
 end
 ```
+#### c++
+```c++
+// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
 
 #### Shell
 
