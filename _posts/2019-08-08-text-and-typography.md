@@ -65,7 +65,16 @@ Click the hook will locate the footnote[^footnote].
 
 ## Inline code
 
-This is an example of `Inline Code`.
+This is an example of
+
+ `// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}`.
 
 ## Mathematics
 
